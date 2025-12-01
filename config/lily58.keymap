@@ -18,6 +18,11 @@
             key-positions = <0 1>;
             bindings = <&kp ESC>;
         };
+
+        Caps {
+            bindings = <&kp CLCK>;
+            key-positions = <24 25>;
+        };
     };
 
     behaviors {
